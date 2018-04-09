@@ -1,0 +1,2 @@
+# pythonrua
+just for study
